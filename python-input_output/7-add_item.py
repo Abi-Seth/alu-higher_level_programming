@@ -16,4 +16,8 @@ else:
     my_list = []
 
 my_list.extend(sys.argv[1:])
+<<<<<<< HEAD
 save_to_json_file(my_list, filename)
+=======
+save_to_json_file(my_list, filename)
+>>>>>>> 62bbd1f239f52e6934703effe482a3e2dd02998a
